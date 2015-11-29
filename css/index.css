@@ -1,0 +1,18 @@
+.main{
+	background: #A4C2E8;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	font-size: 22px;
+}
+
+.close-d{
+	text-align: right;
+	
+	background: #9BA2AB;
+}
+
+.close{
+	font-size: 18px;
+	text-decoration: none;
+}
